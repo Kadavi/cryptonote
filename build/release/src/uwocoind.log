@@ -1,0 +1,308 @@
+2018-Feb-08 11:28:32.322565 INFO [daemon] Uwo Coin v1.1.1.1()
+2018-Feb-08 11:28:32.322803 INFO [daemon] Module folder: ./uwocoind
+2018-Feb-08 11:28:32.325311 INFO [daemon] Initializing p2p server...
+2018-Feb-08 11:28:32.325476 INFO [node_server] Binding on 0.0.0.0:17236
+2018-Feb-08 11:28:32.325573 INFO [node_server] Net service binded on 0.0.0.0:17236
+2018-Feb-08 11:28:32.325632 INFO [node_server] Attempting to add IGD port mapping.
+2018-Feb-08 11:28:36.329229 INFO [node_server] No IGD was found.
+2018-Feb-08 11:28:36.329401 INFO [daemon] P2p server initialized OK
+2018-Feb-08 11:28:36.329452 INFO [daemon] Initializing core...
+2018-Feb-08 11:28:36.329705 INFO [Blockchain] Blockchain not loaded, generating genesis block.
+2018-Feb-08 11:28:36.356730 INFO [Blockchain] Blockchain initialized. last block: 0, d2044.h22.m28.s36 time ago, current difficulty: 1
+2018-Feb-08 11:28:36.356826 INFO [daemon] Core initialized OK
+2018-Feb-08 11:28:36.356991 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2018-Feb-08 11:28:36.357119 INFO [daemon] Core rpc server started ok
+2018-Feb-08 11:28:36.357201 INFO [daemon] Starting p2p net loop...
+2018-Feb-08 11:28:36.357250 INFO [node_server] Starting node_server
+2018-Feb-08 11:28:36.359455 INFO [protocol] 
+2018-Feb-08 11:28:36.359455 INFO [protocol] **********************************************************************
+2018-Feb-08 11:28:36.359455 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Feb-08 11:28:36.359455 INFO [protocol] 
+2018-Feb-08 11:28:36.359455 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Feb-08 11:28:36.359455 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Feb-08 11:28:36.359455 INFO [protocol] 
+2018-Feb-08 11:28:36.359455 INFO [protocol] Use "help" command to see the list of available commands.
+2018-Feb-08 11:28:36.359455 INFO [protocol] **********************************************************************
+2018-Feb-08 11:28:36.360081 INFO [core] 
+2018-Feb-08 11:28:36.360081 INFO [core] **********************************************************************
+2018-Feb-08 11:28:36.360081 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2018-Feb-08 11:28:36.360081 INFO [core] 
+2018-Feb-08 11:28:36.360081 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2018-Feb-08 11:28:36.360081 INFO [core] 
+2018-Feb-08 11:28:36.360081 INFO [core] Use "help" command to see the list of available commands.
+2018-Feb-08 11:28:36.360081 INFO [core] 
+2018-Feb-08 11:28:36.360081 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2018-Feb-08 11:28:36.360081 INFO [core] **********************************************************************
+2018-Feb-08 11:28:36.360645 WARNING [node_server] [120.27.141.51:39110 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:38.363129 WARNING [node_server] [120.27.141.51:36482 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:40.365594 WARNING [node_server] [120.27.141.51:47965 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:42.368492 WARNING [node_server] [120.27.141.51:39674 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:44.370881 WARNING [node_server] [120.27.141.51:37868 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:46.373527 WARNING [node_server] [120.27.141.51:55732 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:48.375823 WARNING [node_server] [120.27.141.51:41071 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:50.379204 WARNING [node_server] [120.27.141.51:54566 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:52.381618 WARNING [node_server] [120.27.141.51:38123 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:54.384342 WARNING [node_server] [120.27.141.51:46565 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:56.386594 WARNING [node_server] [120.27.141.51:48230 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:28:58.389193 WARNING [node_server] [120.27.141.51:48578 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:00.392471 WARNING [node_server] [120.27.141.51:33412 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:02.394861 WARNING [node_server] [120.27.141.51:40261 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:04.397270 WARNING [node_server] [120.27.141.51:50767 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:06.399685 WARNING [node_server] [120.27.141.51:60207 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:08.402183 WARNING [node_server] [120.27.141.51:39260 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:10.404509 WARNING [node_server] [120.27.141.51:58298 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:12.406791 WARNING [node_server] [120.27.141.51:37127 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:14.409191 WARNING [node_server] [120.27.141.51:59256 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:16.411432 WARNING [node_server] [120.27.141.51:57649 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:18.413833 WARNING [node_server] [120.27.141.51:52636 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:20.416133 WARNING [node_server] [120.27.141.51:60195 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:22.418452 WARNING [node_server] [120.27.141.51:56588 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:24.421367 WARNING [node_server] [120.27.141.51:46951 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:26.423659 WARNING [node_server] [120.27.141.51:44656 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:28.426223 WARNING [node_server] [120.27.141.51:55743 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:30.428741 WARNING [node_server] [120.27.141.51:53099 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:32.431086 WARNING [node_server] [120.27.141.51:43207 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:34.433833 WARNING [node_server] [120.27.141.51:44004 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:36.436242 WARNING [node_server] [120.27.141.51:49353 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:38.438501 WARNING [node_server] [120.27.141.51:54355 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:40.440857 WARNING [node_server] [120.27.141.51:41061 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:42.443701 WARNING [node_server] [120.27.141.51:46231 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:44.446023 WARNING [node_server] [120.27.141.51:46195 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:46.448574 WARNING [node_server] [120.27.141.51:41207 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:48.451648 WARNING [node_server] [120.27.141.51:47081 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:50.454077 WARNING [node_server] [120.27.141.51:50965 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:52.456589 WARNING [node_server] [120.27.141.51:44120 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:54.459831 WARNING [node_server] [120.27.141.51:50633 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:56.462799 WARNING [node_server] [120.27.141.51:42738 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:29:58.465199 WARNING [node_server] [120.27.141.51:50591 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:00.467411 WARNING [node_server] [120.27.141.51:39940 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:02.469751 WARNING [node_server] [120.27.141.51:50604 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:04.472140 WARNING [node_server] [120.27.141.51:53452 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:06.475198 WARNING [node_server] [120.27.141.51:48720 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:08.477927 WARNING [node_server] [120.27.141.51:40233 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:10.481226 WARNING [node_server] [120.27.141.51:47071 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:12.483523 WARNING [node_server] [120.27.141.51:60847 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:14.486717 WARNING [node_server] [120.27.141.51:45068 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:16.489704 WARNING [node_server] [120.27.141.51:53543 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:18.492076 WARNING [node_server] [120.27.141.51:37221 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:20.495122 WARNING [node_server] [120.27.141.51:33573 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:22.497501 WARNING [node_server] [120.27.141.51:40361 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:24.499654 WARNING [node_server] [120.27.141.51:60346 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:26.502366 WARNING [node_server] [120.27.141.51:39589 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:28.504665 WARNING [node_server] [120.27.141.51:45921 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:30.507034 WARNING [node_server] [120.27.141.51:52515 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:32.509381 WARNING [node_server] [120.27.141.51:50962 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:34.511951 WARNING [node_server] [120.27.141.51:38633 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:36.514377 WARNING [node_server] [120.27.141.51:60037 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:38.516907 WARNING [node_server] [120.27.141.51:49778 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:40.519365 WARNING [node_server] [120.27.141.51:34936 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:42.523578 WARNING [node_server] [120.27.141.51:53614 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:44.526045 WARNING [node_server] [120.27.141.51:34090 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:46.528628 WARNING [node_server] [120.27.141.51:48645 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:48.532177 WARNING [node_server] [120.27.141.51:45369 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:50.534529 WARNING [node_server] [120.27.141.51:49125 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:52.537016 WARNING [node_server] [120.27.141.51:46362 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:54.539208 WARNING [node_server] [120.27.141.51:34567 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:56.541754 WARNING [node_server] [120.27.141.51:36233 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:30:58.546111 WARNING [node_server] [120.27.141.51:39179 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:00.548505 WARNING [node_server] [120.27.141.51:49543 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:02.550862 WARNING [node_server] [120.27.141.51:48563 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:04.553147 WARNING [node_server] [120.27.141.51:45388 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:06.555351 WARNING [node_server] [120.27.141.51:58046 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:08.557992 WARNING [node_server] [120.27.141.51:48476 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:10.560736 WARNING [node_server] [120.27.141.51:52170 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:12.563176 WARNING [node_server] [120.27.141.51:50112 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:14.565415 WARNING [node_server] [120.27.141.51:52451 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:16.567719 WARNING [node_server] [120.27.141.51:59706 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:18.570050 WARNING [node_server] [120.27.141.51:47792 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:20.572769 WARNING [node_server] [120.27.141.51:34556 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:22.575205 WARNING [node_server] [120.27.141.51:48226 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:24.578432 WARNING [node_server] [120.27.141.51:35358 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:26.580722 WARNING [node_server] [120.27.141.51:38971 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:28.583806 WARNING [node_server] [120.27.141.51:40207 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:30.586325 WARNING [node_server] [120.27.141.51:35202 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:32.589193 WARNING [node_server] [120.27.141.51:40472 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:34.591527 WARNING [node_server] [120.27.141.51:43370 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:36.593962 WARNING [node_server] [120.27.141.51:53943 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:38.597167 WARNING [node_server] [120.27.141.51:53234 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:40.599372 WARNING [node_server] [120.27.141.51:49683 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:42.601735 WARNING [node_server] [120.27.141.51:51736 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:44.604128 WARNING [node_server] [120.27.141.51:55425 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:46.606526 WARNING [node_server] [120.27.141.51:41351 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:48.608799 WARNING [node_server] [120.27.141.51:45474 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:50.611271 WARNING [node_server] [120.27.141.51:50724 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:52.613574 WARNING [node_server] [120.27.141.51:56385 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:54.616026 WARNING [node_server] [120.27.141.51:39138 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:56.618311 WARNING [node_server] [120.27.141.51:38141 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:31:58.620701 WARNING [node_server] [120.27.141.51:42833 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:00.623531 WARNING [node_server] [120.27.141.51:59576 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:02.626740 WARNING [node_server] [120.27.141.51:52181 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:04.628994 WARNING [node_server] [120.27.141.51:59390 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:06.631355 WARNING [node_server] [120.27.141.51:47032 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:08.633920 WARNING [node_server] [120.27.141.51:56209 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:10.636369 WARNING [node_server] [120.27.141.51:37665 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:12.638707 WARNING [node_server] [120.27.141.51:39749 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:14.640972 WARNING [node_server] [120.27.141.51:59054 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:16.643222 WARNING [node_server] [120.27.141.51:54491 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:18.645677 WARNING [node_server] [120.27.141.51:49675 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:20.648058 WARNING [node_server] [120.27.141.51:58482 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:22.650528 WARNING [node_server] [120.27.141.51:47309 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:24.652864 WARNING [node_server] [120.27.141.51:56579 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:26.655127 WARNING [node_server] [120.27.141.51:34542 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:32:26.825722 INFO [node_server] Stop signal sent
+2018-Feb-08 11:32:26.825888 INFO [node_server] Stopping NodeServer and it's0 connections...
+2018-Feb-08 11:32:26.826145 INFO [node_server] NodeServer loop stopped
+2018-Feb-08 11:32:26.826211 INFO [daemon] p2p net loop stopped
+2018-Feb-08 11:32:26.826285 INFO [daemon] Stopping core rpc server...
+2018-Feb-08 11:32:26.826416 INFO [daemon] Deinitializing core...
+2018-Feb-08 11:32:26.826499 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:32:26.826709 INFO [Blockchain] Saving blockchain...
+2018-Feb-08 11:32:26.826816 INFO [BlockCacheSerializer] - saving block index...
+2018-Feb-08 11:32:26.826907 INFO [BlockCacheSerializer] - saving transaction map...
+2018-Feb-08 11:32:26.826983 INFO [BlockCacheSerializer] - saving spent keys...
+2018-Feb-08 11:32:26.827063 INFO [BlockCacheSerializer] - saving outputs...
+2018-Feb-08 11:32:26.827142 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2018-Feb-08 11:32:26.827220 INFO [BlockCacheSerializer] Serialization time: 0ms
+2018-Feb-08 11:32:26.827318 INFO [Blockchain] Saving blockchain indices...
+2018-Feb-08 11:32:26.827446 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2018-Feb-08 11:32:26.827526 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2018-Feb-08 11:32:26.827613 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2018-Feb-08 11:32:26.827726 INFO [daemon] Deinitializing p2p...
+2018-Feb-08 11:32:26.828029 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:32:26.828547 INFO [daemon] Node stopped.
+2018-Feb-08 11:33:56.175661 INFO [daemon] Uwo Coin v1.1.1.1()
+2018-Feb-08 11:33:56.175916 INFO [daemon] Module folder: ./uwocoind
+2018-Feb-08 11:33:56.177300 INFO [daemon] Initializing p2p server...
+2018-Feb-08 11:33:56.177517 INFO [node_server] Binding on 0.0.0.0:17236
+2018-Feb-08 11:33:56.177643 INFO [node_server] Net service binded on 0.0.0.0:17236
+2018-Feb-08 11:33:56.177710 INFO [node_server] Attempting to add IGD port mapping.
+2018-Feb-08 11:34:00.182433 INFO [node_server] No IGD was found.
+2018-Feb-08 11:34:00.182621 INFO [daemon] P2p server initialized OK
+2018-Feb-08 11:34:00.182673 INFO [daemon] Initializing core...
+2018-Feb-08 11:34:00.182816 INFO [Blockchain] Loading blockchain...
+2018-Feb-08 11:34:00.182957 INFO [BlockCacheSerializer] - loading block index...
+2018-Feb-08 11:34:00.183040 INFO [BlockCacheSerializer] - loading transaction map...
+2018-Feb-08 11:34:00.183087 INFO [BlockCacheSerializer] - loading spent keys...
+2018-Feb-08 11:34:00.183128 INFO [BlockCacheSerializer] - loading outputs...
+2018-Feb-08 11:34:00.183183 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2018-Feb-08 11:34:00.183225 INFO [BlockCacheSerializer] Serialization time: 0ms
+2018-Feb-08 11:34:00.183269 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2018-Feb-08 11:34:00.183363 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2018-Feb-08 11:34:00.183415 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2018-Feb-08 11:34:00.183458 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2018-Feb-08 11:34:00.183532 INFO [Blockchain] Blockchain initialized. last block: 0, d2044.h22.m34.s0 time ago, current difficulty: 1
+2018-Feb-08 11:34:00.183588 INFO [daemon] Core initialized OK
+2018-Feb-08 11:34:00.183753 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2018-Feb-08 11:34:00.183874 INFO [daemon] Core rpc server started ok
+2018-Feb-08 11:34:00.183939 INFO [daemon] Starting p2p net loop...
+2018-Feb-08 11:34:00.184008 INFO [node_server] Starting node_server
+2018-Feb-08 11:34:00.186227 INFO [protocol] 
+2018-Feb-08 11:34:00.186227 INFO [protocol] **********************************************************************
+2018-Feb-08 11:34:00.186227 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Feb-08 11:34:00.186227 INFO [protocol] 
+2018-Feb-08 11:34:00.186227 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Feb-08 11:34:00.186227 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Feb-08 11:34:00.186227 INFO [protocol] 
+2018-Feb-08 11:34:00.186227 INFO [protocol] Use "help" command to see the list of available commands.
+2018-Feb-08 11:34:00.186227 INFO [protocol] **********************************************************************
+2018-Feb-08 11:34:00.186880 INFO [core] 
+2018-Feb-08 11:34:00.186880 INFO [core] **********************************************************************
+2018-Feb-08 11:34:00.186880 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2018-Feb-08 11:34:00.186880 INFO [core] 
+2018-Feb-08 11:34:00.186880 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2018-Feb-08 11:34:00.186880 INFO [core] 
+2018-Feb-08 11:34:00.186880 INFO [core] Use "help" command to see the list of available commands.
+2018-Feb-08 11:34:00.186880 INFO [core] 
+2018-Feb-08 11:34:00.186880 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2018-Feb-08 11:34:00.186880 INFO [core] **********************************************************************
+2018-Feb-08 11:34:00.187456 WARNING [node_server] [120.27.141.51:41772 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:34:02.190118 WARNING [node_server] [120.27.141.51:49122 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:34:02.791399 INFO [node_server] Stop signal sent
+2018-Feb-08 11:34:02.791611 INFO [node_server] Stopping NodeServer and it's0 connections...
+2018-Feb-08 11:34:02.791774 INFO [node_server] NodeServer loop stopped
+2018-Feb-08 11:34:02.791841 INFO [daemon] p2p net loop stopped
+2018-Feb-08 11:34:02.791887 INFO [daemon] Stopping core rpc server...
+2018-Feb-08 11:34:02.791968 INFO [daemon] Deinitializing core...
+2018-Feb-08 11:34:02.792052 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:34:02.792301 INFO [Blockchain] Saving blockchain...
+2018-Feb-08 11:34:02.792398 INFO [BlockCacheSerializer] - saving block index...
+2018-Feb-08 11:34:02.792466 INFO [BlockCacheSerializer] - saving transaction map...
+2018-Feb-08 11:34:02.792511 INFO [BlockCacheSerializer] - saving spent keys...
+2018-Feb-08 11:34:02.792553 INFO [BlockCacheSerializer] - saving outputs...
+2018-Feb-08 11:34:02.792595 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2018-Feb-08 11:34:02.792656 INFO [BlockCacheSerializer] Serialization time: 0ms
+2018-Feb-08 11:34:02.792734 INFO [Blockchain] Saving blockchain indices...
+2018-Feb-08 11:34:02.792816 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2018-Feb-08 11:34:02.792871 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2018-Feb-08 11:34:02.792919 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2018-Feb-08 11:34:02.793001 INFO [daemon] Deinitializing p2p...
+2018-Feb-08 11:34:02.793224 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:34:02.793682 INFO [daemon] Node stopped.
+2018-Feb-08 11:34:05.775127 INFO [daemon] Uwo Coin v1.1.1.1()
+2018-Feb-08 11:34:05.775363 INFO [daemon] Module folder: ./uwocoind
+2018-Feb-08 11:34:05.776629 INFO [daemon] Initializing p2p server...
+2018-Feb-08 11:34:05.776807 INFO [node_server] Binding on 0.0.0.0:17236
+2018-Feb-08 11:34:05.776902 INFO [node_server] Net service binded on 0.0.0.0:17236
+2018-Feb-08 11:34:05.776958 INFO [node_server] Attempting to add IGD port mapping.
+2018-Feb-08 11:34:09.781597 INFO [node_server] No IGD was found.
+2018-Feb-08 11:34:09.781757 INFO [daemon] P2p server initialized OK
+2018-Feb-08 11:34:09.781821 INFO [daemon] Initializing core...
+2018-Feb-08 11:34:09.781975 INFO [Blockchain] Loading blockchain...
+2018-Feb-08 11:34:09.782132 INFO [BlockCacheSerializer] - loading block index...
+2018-Feb-08 11:34:09.782189 INFO [BlockCacheSerializer] - loading transaction map...
+2018-Feb-08 11:34:09.782230 INFO [BlockCacheSerializer] - loading spent keys...
+2018-Feb-08 11:34:09.782267 INFO [BlockCacheSerializer] - loading outputs...
+2018-Feb-08 11:34:09.782335 INFO [BlockCacheSerializer] - loading multi-signature outputs...
+2018-Feb-08 11:34:09.782382 INFO [BlockCacheSerializer] Serialization time: 0ms
+2018-Feb-08 11:34:09.782424 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2018-Feb-08 11:34:09.782602 INFO [BlockchainIndicesSerializer] - loading paymentID index...
+2018-Feb-08 11:34:09.782690 INFO [BlockchainIndicesSerializer] - loading timestamp index...
+2018-Feb-08 11:34:09.782766 INFO [BlockchainIndicesSerializer] - loading generated transactions index...
+2018-Feb-08 11:34:09.782880 INFO [Blockchain] Blockchain initialized. last block: 0, d2044.h22.m34.s9 time ago, current difficulty: 1
+2018-Feb-08 11:34:09.782935 INFO [daemon] Core initialized OK
+2018-Feb-08 11:34:09.783115 INFO [daemon] Starting core rpc server on address 127.0.0.1:18236
+2018-Feb-08 11:34:09.783260 INFO [daemon] Core rpc server started ok
+2018-Feb-08 11:34:09.783338 INFO [daemon] Starting p2p net loop...
+2018-Feb-08 11:34:09.783379 INFO [node_server] Starting node_server
+2018-Feb-08 11:34:09.785989 INFO [protocol] 
+2018-Feb-08 11:34:09.785989 INFO [protocol] **********************************************************************
+2018-Feb-08 11:34:09.785989 INFO [protocol] You are now synchronized with the network. You may now start simplewallet.
+2018-Feb-08 11:34:09.785989 INFO [protocol] 
+2018-Feb-08 11:34:09.785989 INFO [protocol] Please note, that the blockchain will be saved only after you quit the daemon with "exit" command or if you use "save" command.
+2018-Feb-08 11:34:09.785989 INFO [protocol] Otherwise, you will possibly need to synchronize the blockchain again.
+2018-Feb-08 11:34:09.785989 INFO [protocol] 
+2018-Feb-08 11:34:09.785989 INFO [protocol] Use "help" command to see the list of available commands.
+2018-Feb-08 11:34:09.785989 INFO [protocol] **********************************************************************
+2018-Feb-08 11:34:09.786666 INFO [core] 
+2018-Feb-08 11:34:09.786666 INFO [core] **********************************************************************
+2018-Feb-08 11:34:09.786666 INFO [core] The daemon will start synchronizing with the network. It may take up to several hours.
+2018-Feb-08 11:34:09.786666 INFO [core] 
+2018-Feb-08 11:34:09.786666 INFO [core] You can set the level of process detailization* through "set_log <level>" command*, where <level> is between 0 (no details) and 4 (very verbose).
+2018-Feb-08 11:34:09.786666 INFO [core] 
+2018-Feb-08 11:34:09.786666 INFO [core] Use "help" command to see the list of available commands.
+2018-Feb-08 11:34:09.786666 INFO [core] 
+2018-Feb-08 11:34:09.786666 INFO [core] Note: in case you need to interrupt the process, use "exit" command. Otherwise, the current progress won't be saved.
+2018-Feb-08 11:34:09.786666 INFO [core] **********************************************************************
+2018-Feb-08 11:34:09.787273 WARNING [node_server] [120.27.141.51:35097 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:34:11.789606 WARNING [node_server] [120.27.141.51:41562 INC] Exception in connectionHandler: TcpConnection::read
+2018-Feb-08 11:34:13.189462 INFO [node_server] Stop signal sent
+2018-Feb-08 11:34:13.189659 INFO [node_server] Stopping NodeServer and it's0 connections...
+2018-Feb-08 11:34:13.189884 INFO [node_server] NodeServer loop stopped
+2018-Feb-08 11:34:13.189949 INFO [daemon] p2p net loop stopped
+2018-Feb-08 11:34:13.189989 INFO [daemon] Stopping core rpc server...
+2018-Feb-08 11:34:13.190073 INFO [daemon] Deinitializing core...
+2018-Feb-08 11:34:13.190118 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:34:13.190326 INFO [Blockchain] Saving blockchain...
+2018-Feb-08 11:34:13.190411 INFO [BlockCacheSerializer] - saving block index...
+2018-Feb-08 11:34:13.190465 INFO [BlockCacheSerializer] - saving transaction map...
+2018-Feb-08 11:34:13.190504 INFO [BlockCacheSerializer] - saving spent keys...
+2018-Feb-08 11:34:13.190542 INFO [BlockCacheSerializer] - saving outputs...
+2018-Feb-08 11:34:13.190580 INFO [BlockCacheSerializer] - saving multi-signature outputs...
+2018-Feb-08 11:34:13.190622 INFO [BlockCacheSerializer] Serialization time: 0ms
+2018-Feb-08 11:34:13.190697 INFO [Blockchain] Saving blockchain indices...
+2018-Feb-08 11:34:13.190801 INFO [BlockchainIndicesSerializer] - saving paymentID index...
+2018-Feb-08 11:34:13.190851 INFO [BlockchainIndicesSerializer] - saving timestamp index...
+2018-Feb-08 11:34:13.190894 INFO [BlockchainIndicesSerializer] - saving generated transactions index...
+2018-Feb-08 11:34:13.190971 INFO [daemon] Deinitializing p2p...
+2018-Feb-08 11:34:13.191217 INFO [miner] Mining has been stopped, 0 finished
+2018-Feb-08 11:34:13.191702 INFO [daemon] Node stopped.
